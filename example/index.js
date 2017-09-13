@@ -1,3 +1,3 @@
-var zeroroo = require('../index.js')
+var Engine = require('../index.js')
 
-console.log(zeroroo.engine)
+console.log(Engine)
